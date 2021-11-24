@@ -1,0 +1,175 @@
+{
+    "products": [
+        { 
+            "id": 1, 
+            "productName": "Wedding Lehnga",
+            "categoryId": 5,
+            "description": "description here",
+            "price": 500,
+            "is_available": true,
+            "productImg": "http://localhost:4200/assets/lehnga.jpg",
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "jain shop",
+            "warrenty": 1
+        },
+        { 
+            "id": 2, 
+            "productName": "Casual shirt",
+            "categoryId": 4,
+            "description": "description here",
+            "price": 500,
+            "is_available": true,
+            "productImg": "http://localhost:4200/assets/shirt.jpg",
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "shop",
+            "warrenty": 1
+        },
+        { 
+            "id": 3, 
+            "productName": "Party bear Pent",
+            "categoryId": 8,
+            "description": "description here",
+            "price": 500,
+            "is_available": true,
+            "productImg": "http://localhost:4200/assets/pent.jpg",
+            "rating": 4,
+            "review": 150,
+            "vendor_name": "Yadav",
+            "warrenty": 1
+            },
+            { 
+                "id": 4, 
+                "productName": "Addidas sports Cap",
+                "categoryId": 5,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/cap.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "jain shop",
+                "warrenty": 1
+            },
+            { 
+                "id": 5, 
+                "productName": "Denim woolan Jacket",
+                "categoryId": 4,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/jacket.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "shop",
+                "warrenty": 1
+            },
+            { 
+                "id": 6, 
+                "productName": "Green Kurti",
+                "categoryId": 8,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/kurti.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "Yadav",
+                "warrenty": 1
+            },
+            { 
+                "id": 7, 
+                "productName": "Xiomi Redmi 9",
+                "categoryId": 4,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/mobile.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "shop",
+                "warrenty": 1
+            },
+            { 
+                "id": 8, 
+                "productName": "Lenovo Laptop s345",
+                "categoryId": 8,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/laptop.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "Yadav",
+                "warrenty": 1
+            },
+            { 
+                "id": 9, 
+                "productName": "Travel Bag",
+                "categoryId": 4,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/bag.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "shop",
+                "warrenty": 1
+            },
+            { 
+                "id": 10, 
+                "productName": "Colorful Papers",
+                "categoryId": 8,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/paper.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "Yadav",
+                "warrenty": 1
+            },
+            { 
+                "id": 11, 
+                "productName": "I Kall 8 inch Tablet",
+                "categoryId": 4,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/tablet.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "shop",
+                "warrenty": 1
+            },
+            { 
+                "id": 12, 
+                "productName": "Ranger Cycle",
+                "categoryId": 8,
+                "description": "description here",
+                "price": 500,
+                "is_available": true,
+                "productImg": "http://localhost:4200/assets/cycle.jpg",
+                "rating": 4,
+                "review": 150,
+                "vendor_name": "Yadav",
+                "warrenty": 1
+            }
+    ],
+    "categories": [
+        { "id": 1, "categoryName": "Electronics" },
+        { "id": 2, "categoryName": "Mens" },
+        { "id": 3, "categoryName": "Womens" },
+        { "id": 4, "categoryName": "Furniture" },
+        { "id": 5, "categoryName": "Babys" },
+        { "id": 6, "categoryName": "Decoration" }
+      ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }

@@ -1,0 +1,7 @@
+<h2>Jain Shop</h2>
+<a href="products" class="list-group-item">View All Product</a>
+
+<div class="list-group" style="margin-top: 30px;" *ngFor="let catg of categoryData">
+    <a href="products/category/{{catg.id}}" class="list-group-item"  style="background-color: black; color: white;">{{catg.categoryName}}</a>
+
+</div>
