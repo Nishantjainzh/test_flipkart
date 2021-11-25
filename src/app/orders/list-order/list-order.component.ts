@@ -10,6 +10,7 @@ export class ListOrderComponent implements OnInit {
  
 
   ngOnInit(): void {
+    'thi si stest '
   }
 
 }
