@@ -7,10 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListOrderComponent implements OnInit {
 
- 
+  constructor() {}
 
   ngOnInit(): void {
-    'thi si stest '
+    console.log('this is test for component');
+    
   }
 
 }
